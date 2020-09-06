@@ -7,7 +7,7 @@
 - [Paulo Farias](https://github.com/paulovgf)
 - [Ethan Glover](https://github.com/eglove)
 - [Priya Patel](https://github.com/PRXYA)
-- Sid
+- [MD ARIF HOSSAIN](https://github.com/arifpro)
 - [Tatiana Faramarzi](https://github.com/tfaramar)
 - [Anna Carey] (https://github.com/annacarey)
 - Skyula (https://github.com/Skyula)
